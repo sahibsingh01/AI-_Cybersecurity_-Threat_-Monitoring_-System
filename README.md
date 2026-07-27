@@ -71,7 +71,7 @@ This project is an end-to-end cybersecurity monitoring solution developed using 
 AI-Cybersecurity-Threat-Monitoring-System/
 
 │── dataset/
-│── notebooks/
-│── screenshots/
+│── NOTEBOOK/
+│── dashboard/
 │── README.md
 ```
